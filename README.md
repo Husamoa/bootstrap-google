@@ -1,4 +1,5 @@
-# bootstrap-google
+# Google site 
+## used Bootstrap only
 Fun task.
 
-[Link to task](https://husamoa.github.io/bootstrap-google/ "Google's Homepage")
+[Link](https://husamoa.github.io/bootstrap-google/ "Google's Homepage")
