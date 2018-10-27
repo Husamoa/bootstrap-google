@@ -1,4 +1,4 @@
 # bootstrap-google
-Funny task.
+Fun task.
 
 [Link to task](https://husamoa.github.io/bootstrap-google/ "Google's Homepage")
